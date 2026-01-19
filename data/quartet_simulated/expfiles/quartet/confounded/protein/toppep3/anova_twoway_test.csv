@@ -1,0 +1,535 @@
+protein,Effect,DFn,DFd,F,p,p<.05,ges,feature
+"10 kDa heat shock protein, mitochondrial",sample,3,24,0.762,0.526,"",0.087,4
+"10 kDa heat shock protein, mitochondrial",batch,5,24,1131.55,1.16e-27,*,0.996,4
+"10 kDa heat shock protein, mitochondrial",sample:batch,3,24,0.16,0.922,"",0.02,4
+116 kDa U5 small nuclear ribonucleoprotein component,sample,3,24,2.688,0.069,"",0.251,5
+116 kDa U5 small nuclear ribonucleoprotein component,batch,5,24,977.681,6.66e-27,*,0.995,5
+116 kDa U5 small nuclear ribonucleoprotein component,sample:batch,3,24,1.47,0.248,"",0.155,5
+14-3-3 protein epsilon,sample,3,24,1.272,0.306,"",0.137,6
+14-3-3 protein epsilon,batch,5,24,533.645,9.02e-24,*,0.991,6
+14-3-3 protein epsilon,sample:batch,3,24,0.742,0.537,"",0.085,6
+14-3-3 protein zeta/delta,sample,3,24,2.13,0.123,"",0.21,8
+14-3-3 protein zeta/delta,batch,5,24,364.67,8.23e-22,*,0.987,8
+14-3-3 protein zeta/delta,sample:batch,3,24,1.156,0.347,"",0.126,8
+2-5-oligoadenylate synthase 2,sample,3,24,333.883,1.07e-19,*,0.977,9
+2-5-oligoadenylate synthase 2,batch,5,24,3574.506,1.22e-33,*,0.999,9
+2-5-oligoadenylate synthase 2,sample:batch,3,24,235.418,6.3e-18,*,0.967,9
+26S protease regulatory subunit 7,sample,3,24,0.705,0.558,"",0.081,10
+26S protease regulatory subunit 7,batch,5,24,1148.726,9.72e-28,*,0.996,10
+26S protease regulatory subunit 7,sample:batch,3,24,1.08,0.376,"",0.119,10
+26S protease regulatory subunit 8,sample,3,24,0.216,0.884,"",0.026,11
+26S protease regulatory subunit 8,batch,5,24,328.209,2.86e-21,*,0.986,11
+26S protease regulatory subunit 8,sample:batch,3,24,0.486,0.695,"",0.057,11
+26S proteasome non-ATPase regulatory subunit 2,sample,3,24,0.279,0.84,"",0.034,12
+26S proteasome non-ATPase regulatory subunit 2,batch,5,24,272.623,2.55e-20,*,0.983,12
+26S proteasome non-ATPase regulatory subunit 2,sample:batch,3,24,0.683,0.571,"",0.079,12
+26S proteasome non-ATPase regulatory subunit 6,sample,3,24,0.594,0.625,"",0.069,13
+26S proteasome non-ATPase regulatory subunit 6,batch,5,24,21.692,3.45e-08,*,0.819,13
+26S proteasome non-ATPase regulatory subunit 6,sample:batch,3,24,0.645,0.593,"",0.075,13
+40S ribosomal protein S12,sample,3,24,1.088,0.373,"",0.12,18
+40S ribosomal protein S12,batch,5,24,393.403,3.36e-22,*,0.988,18
+40S ribosomal protein S12,sample:batch,3,24,1.058,0.385,"",0.117,18
+40S ribosomal protein S16,sample,3,24,1.489,0.243,"",0.157,19
+40S ribosomal protein S16,batch,5,24,491.553,2.39e-23,*,0.99,19
+40S ribosomal protein S16,sample:batch,3,24,1.448,0.254,"",0.153,19
+40S ribosomal protein S18,sample,3,24,1.963,0.147,"",0.197,20
+40S ribosomal protein S18,batch,5,24,150.12,2.72e-17,*,0.969,20
+40S ribosomal protein S18,sample:batch,3,24,1.124,0.359,"",0.123,20
+40S ribosomal protein S2,sample,3,24,1.298,0.298,"",0.14,21
+40S ribosomal protein S2,batch,5,24,796.597,7.67e-26,*,0.994,21
+40S ribosomal protein S2,sample:batch,3,24,0.663,0.583,"",0.077,21
+40S ribosomal protein S25,sample,3,24,1.356,0.28,"",0.145,22
+40S ribosomal protein S25,batch,5,24,710.673,2.99e-25,*,0.993,22
+40S ribosomal protein S25,sample:batch,3,24,0.83,0.49,"",0.094,22
+40S ribosomal protein S27,sample,3,24,0.93,0.441,"",0.104,24
+40S ribosomal protein S27,batch,5,24,69.771,1.67e-13,*,0.936,24
+40S ribosomal protein S27,sample:batch,3,24,0.853,0.479,"",0.096,24
+40S ribosomal protein S3,sample,3,24,0.539,0.66,"",0.063,25
+40S ribosomal protein S3,batch,5,24,912.744,1.51e-26,*,0.995,25
+40S ribosomal protein S3,sample:batch,3,24,0.219,0.882,"",0.027,25
+40S ribosomal protein S30,sample,3,24,1.065,0.383,"",0.117,26
+40S ribosomal protein S30,batch,5,24,268.089,3.1e-20,*,0.982,26
+40S ribosomal protein S30,sample:batch,3,24,0.439,0.727,"",0.052,26
+40S ribosomal protein S8,sample,3,24,0.023,0.995,"",0.003,27
+40S ribosomal protein S8,batch,5,24,691.323,4.15e-25,*,0.993,27
+40S ribosomal protein S8,sample:batch,3,24,0.062,0.979,"",0.008,27
+40S ribosomal protein SA,sample,3,24,0.7,0.562,"",0.08,28
+40S ribosomal protein SA,batch,5,24,498.129,2.04e-23,*,0.99,28
+40S ribosomal protein SA,sample:batch,3,24,0.536,0.662,"",0.063,28
+"6-phosphogluconate dehydrogenase, decarboxylating",sample,3,24,1.992,0.142,"",0.199,31
+"6-phosphogluconate dehydrogenase, decarboxylating",batch,5,24,565.73,4.51e-24,*,0.992,31
+"6-phosphogluconate dehydrogenase, decarboxylating",sample:batch,3,24,0.841,0.485,"",0.095,31
+"60 kDa heat shock protein, mitochondrial",sample,3,24,1.112,0.364,"",0.122,33
+"60 kDa heat shock protein, mitochondrial",batch,5,24,962.328,8.05e-27,*,0.995,33
+"60 kDa heat shock protein, mitochondrial",sample:batch,3,24,0.75,0.533,"",0.086,33
+60S acidic ribosomal protein P2,sample,3,24,0.384,0.765,"",0.046,34
+60S acidic ribosomal protein P2,batch,5,24,519.383,1.24e-23,*,0.991,34
+60S acidic ribosomal protein P2,sample:batch,3,24,0.135,0.938,"",0.017,34
+60S ribosomal protein L10,sample,3,24,1.031,0.396,"",0.114,35
+60S ribosomal protein L10,batch,5,24,1047.492,2.92e-27,*,0.995,35
+60S ribosomal protein L10,sample:batch,3,24,1.724,0.189,"",0.177,35
+60S ribosomal protein L12,sample,3,24,0.948,0.433,"",0.106,37
+60S ribosomal protein L12,batch,5,24,62.12,6.07e-13,*,0.928,37
+60S ribosomal protein L12,sample:batch,3,24,0.834,0.488,"",0.094,37
+60S ribosomal protein L17,sample,3,24,1.615,0.212,"",0.168,38
+60S ribosomal protein L17,batch,5,24,674.608,5.55e-25,*,0.993,38
+60S ribosomal protein L17,sample:batch,3,24,2.616,0.074,"",0.246,38
+60S ribosomal protein L32,sample,3,24,0.362,0.781,"",0.043,40
+60S ribosomal protein L32,batch,5,24,342.324,1.74e-21,*,0.986,40
+60S ribosomal protein L32,sample:batch,3,24,0.343,0.794,"",0.041,40
+60S ribosomal protein L4,sample,3,24,1.173,0.341,"",0.128,42
+60S ribosomal protein L4,batch,5,24,802.532,7.02e-26,*,0.994,42
+60S ribosomal protein L4,sample:batch,3,24,0.151,0.928,"",0.019,42
+60S ribosomal protein L5,sample,3,24,0.115,0.951,"",0.014,43
+60S ribosomal protein L5,batch,5,24,469.955,4.08e-23,*,0.99,43
+60S ribosomal protein L5,sample:batch,3,24,0.114,0.951,"",0.014,43
+60S ribosomal protein L6,sample,3,24,0.098,0.961,"",0.012,44
+60S ribosomal protein L6,batch,5,24,360.205,9.52e-22,*,0.987,44
+60S ribosomal protein L6,sample:batch,3,24,0.107,0.955,"",0.013,44
+78 kDa glucose-regulated protein,sample,3,24,7.949,0.000749,*,0.498,45
+78 kDa glucose-regulated protein,batch,5,24,908.063,1.61e-26,*,0.995,45
+78 kDa glucose-regulated protein,sample:batch,3,24,4.507,0.012,*,0.36,45
+Actin-related protein 2,sample,3,24,2.561,0.079,"",0.242,52
+Actin-related protein 2,batch,5,24,269.333,2.94e-20,*,0.982,52
+Actin-related protein 2,sample:batch,3,24,2.69,0.069,"",0.252,52
+Actin-related protein 2/3 complex subunit 1B,sample,3,24,5.739,0.004,*,0.418,53
+Actin-related protein 2/3 complex subunit 1B,batch,5,24,1120.796,1.3e-27,*,0.996,53
+Actin-related protein 2/3 complex subunit 1B,sample:batch,3,24,2.973,0.052,"",0.271,53
+Actin-related protein 2/3 complex subunit 2,sample,3,24,0.397,0.757,"",0.047,54
+Actin-related protein 2/3 complex subunit 2,batch,5,24,151.367,2.47e-17,*,0.969,54
+Actin-related protein 2/3 complex subunit 2,sample:batch,3,24,0.291,0.831,"",0.035,54
+Actin-related protein 3,sample,3,24,2.492,0.084,"",0.237,55
+Actin-related protein 3,batch,5,24,162.737,1.07e-17,*,0.971,55
+Actin-related protein 3,sample:batch,3,24,2.316,0.101,"",0.225,55
+Adenosylhomocysteinase,sample,3,24,2.394,0.093,"",0.23,63
+Adenosylhomocysteinase,batch,5,24,393.029,3.39e-22,*,0.988,63
+Adenosylhomocysteinase,sample:batch,3,24,0.702,0.56,"",0.081,63
+"Alanine--tRNA ligase, cytoplasmic",sample,3,24,0.652,0.589,"",0.075,78
+"Alanine--tRNA ligase, cytoplasmic",batch,5,24,736.183,1.96e-25,*,0.994,78
+"Alanine--tRNA ligase, cytoplasmic",sample:batch,3,24,0.494,0.69,"",0.058,78
+Alcohol dehydrogenase [NADP(+)],sample,3,24,0.8,0.506,"",0.091,79
+Alcohol dehydrogenase [NADP(+)],batch,5,24,519.554,1.24e-23,*,0.991,79
+Alcohol dehydrogenase [NADP(+)],sample:batch,3,24,1.007,0.407,"",0.112,79
+Alpha-actinin-4,sample,3,24,5.35,0.006,*,0.401,85
+Alpha-actinin-4,batch,5,24,350.084,1.33e-21,*,0.986,85
+Alpha-actinin-4,sample:batch,3,24,4.564,0.011,*,0.363,85
+Antigen peptide transporter 1,sample,3,24,3.333,0.036,*,0.294,99
+Antigen peptide transporter 1,batch,5,24,687.131,4.46e-25,*,0.993,99
+Antigen peptide transporter 1,sample:batch,3,24,2.53,0.081,"",0.24,99
+"Apoptosis-inducing factor 1, mitochondrial",sample,3,24,5.267,0.006,*,0.397,114
+"Apoptosis-inducing factor 1, mitochondrial",batch,5,24,523.277,1.14e-23,*,0.991,114
+"Apoptosis-inducing factor 1, mitochondrial",sample:batch,3,24,4.545,0.012,*,0.362,114
+"Aspartate--tRNA ligase, cytoplasmic",sample,3,24,0.073,0.974,"",0.009,124
+"Aspartate--tRNA ligase, cytoplasmic",batch,5,24,354.764,1.14e-21,*,0.987,124
+"Aspartate--tRNA ligase, cytoplasmic",sample:batch,3,24,0.038,0.99,"",0.005,124
+ATP synthase subunit a,sample,3,24,0.07,0.975,"",0.009,126
+ATP synthase subunit a,batch,5,24,48.341,9.39e-12,*,0.91,126
+ATP synthase subunit a,sample:batch,3,24,0.12,0.948,"",0.015,126
+"ATP synthase subunit O, mitochondrial",sample,3,24,0.227,0.876,"",0.028,127
+"ATP synthase subunit O, mitochondrial",batch,5,24,866.367,2.82e-26,*,0.994,127
+"ATP synthase subunit O, mitochondrial",sample:batch,3,24,0.382,0.767,"",0.046,127
+ATP-dependent RNA helicase A,sample,3,24,2.364,0.096,"",0.228,133
+ATP-dependent RNA helicase A,batch,5,24,700.155,3.57e-25,*,0.993,133
+ATP-dependent RNA helicase A,sample:batch,3,24,2.506,0.083,"",0.239,133
+Brain acid soluble protein 1,sample,3,24,33.854,8.7e-09,*,0.809,157
+Brain acid soluble protein 1,batch,5,24,711.718,2.94e-25,*,0.993,157
+Brain acid soluble protein 1,sample:batch,3,24,23.503,2.54e-07,*,0.746,157
+Calreticulin,sample,3,24,9.642,0.000232,*,0.547,179
+Calreticulin,batch,5,24,314.642,4.71e-21,*,0.985,179
+Calreticulin,sample:batch,3,24,8.464,0.000518,*,0.514,179
+Cofilin-1,sample,3,24,0.202,0.894,"",0.025,225
+Cofilin-1,batch,5,24,87.158,1.38e-14,*,0.948,225
+Cofilin-1,sample:batch,3,24,0.194,0.9,"",0.024,225
+Cytochrome b-c1 complex subunit 9,sample,3,24,0.234,0.872,"",0.028,260
+Cytochrome b-c1 complex subunit 9,batch,5,24,12.791,4e-06,*,0.727,260
+Cytochrome b-c1 complex subunit 9,sample:batch,3,24,0.372,0.774,"",0.044,260
+Cytosol aminopeptidase,sample,3,24,0.694,0.565,"",0.08,270
+Cytosol aminopeptidase,batch,5,24,494.255,2.24e-23,*,0.99,270
+Cytosol aminopeptidase,sample:batch,3,24,0.485,0.696,"",0.057,270
+D-3-phosphoglycerate dehydrogenase,sample,3,24,11.841,5.89e-05,*,0.597,273
+D-3-phosphoglycerate dehydrogenase,batch,5,24,903.587,1.71e-26,*,0.995,273
+D-3-phosphoglycerate dehydrogenase,sample:batch,3,24,8.258,6e-04,*,0.508,273
+DAZ-associated protein 1,sample,3,24,2.429,0.09,"",0.233,274
+DAZ-associated protein 1,batch,5,24,385.086,4.32e-22,*,0.988,274
+DAZ-associated protein 1,sample:batch,3,24,0.591,0.627,"",0.069,274
+DNA-dependent protein kinase catalytic subunit,sample,3,24,1.235,0.319,"",0.134,303
+DNA-dependent protein kinase catalytic subunit,batch,5,24,264.824,3.58e-20,*,0.982,303
+DNA-dependent protein kinase catalytic subunit,sample:batch,3,24,0.664,0.583,"",0.077,303
+Drebrin,sample,3,24,11.184,8.74e-05,*,0.583,313
+Drebrin,batch,5,24,653.787,8.07e-25,*,0.993,313
+Drebrin,sample:batch,3,24,6.055,0.003,*,0.431,313
+Drebrin-like protein,sample,3,24,3.641,0.027,*,0.313,314
+Drebrin-like protein,batch,5,24,244.724,9.07e-20,*,0.981,314
+Drebrin-like protein,sample:batch,3,24,3.68,0.026,*,0.315,314
+Electron transfer flavoprotein subunit beta,sample,3,24,0.071,0.975,"",0.009,346
+Electron transfer flavoprotein subunit beta,batch,5,24,606.867,1.96e-24,*,0.992,346
+Electron transfer flavoprotein subunit beta,sample:batch,3,24,0.171,0.915,"",0.021,346
+Elongation factor 2,sample,3,24,0.836,0.487,"",0.095,348
+Elongation factor 2,batch,5,24,509.187,1.58e-23,*,0.991,348
+Elongation factor 2,sample:batch,3,24,0.726,0.546,"",0.083,348
+"Elongation factor Tu, mitochondrial",sample,3,24,3.392,0.034,*,0.298,349
+"Elongation factor Tu, mitochondrial",batch,5,24,639.321,1.05e-24,*,0.993,349
+"Elongation factor Tu, mitochondrial",sample:batch,3,24,0.852,0.479,"",0.096,349
+Endoplasmic reticulum aminopeptidase 1,sample,3,24,4.469,0.013,*,0.358,353
+Endoplasmic reticulum aminopeptidase 1,batch,5,24,392.124,3.49e-22,*,0.988,353
+Endoplasmic reticulum aminopeptidase 1,sample:batch,3,24,2.496,0.084,"",0.238,353
+Endoplasmic reticulum resident protein 44,sample,3,24,6.407,0.002,*,0.445,354
+Endoplasmic reticulum resident protein 44,batch,5,24,442.04,8.43e-23,*,0.989,354
+Endoplasmic reticulum resident protein 44,sample:batch,3,24,3.099,0.046,*,0.279,354
+Endoplasmin,sample,3,24,10.446,0.000138,*,0.566,355
+Endoplasmin,batch,5,24,607.269,1.94e-24,*,0.992,355
+Endoplasmin,sample:batch,3,24,3.235,0.04,*,0.288,355
+Eukaryotic initiation factor 4A-I,sample,3,24,0.136,0.938,"",0.017,368
+Eukaryotic initiation factor 4A-I,batch,5,24,916.691,1.44e-26,*,0.995,368
+Eukaryotic initiation factor 4A-I,sample:batch,3,24,0.158,0.923,"",0.019,368
+Eukaryotic translation initiation factor 5B,sample,3,24,2.072,0.131,"",0.206,373
+Eukaryotic translation initiation factor 5B,batch,5,24,783.719,9.31e-26,*,0.994,373
+Eukaryotic translation initiation factor 5B,sample:batch,3,24,4.047,0.018,*,0.336,373
+Ezrin,sample,3,24,9.154,0.000322,*,0.534,375
+Ezrin,batch,5,24,345.637,1.55e-21,*,0.986,375
+Ezrin,sample:batch,3,24,6.813,0.002,*,0.46,375
+F-actin-capping protein subunit alpha-1,sample,3,24,2.936,0.054,"",0.268,376
+F-actin-capping protein subunit alpha-1,batch,5,24,581.413,3.26e-24,*,0.992,376
+F-actin-capping protein subunit alpha-1,sample:batch,3,24,2.075,0.13,"",0.206,376
+F-actin-capping protein subunit beta,sample,3,24,8.411,0.000538,*,0.513,377
+F-actin-capping protein subunit beta,batch,5,24,441.027,8.67e-23,*,0.989,377
+F-actin-capping protein subunit beta,sample:batch,3,24,6.292,0.003,*,0.44,377
+Far upstream element-binding protein 1,sample,3,24,2.155,0.12,"",0.212,388
+Far upstream element-binding protein 1,batch,5,24,527.511,1.04e-23,*,0.991,388
+Far upstream element-binding protein 1,sample:batch,3,24,0.859,0.476,"",0.097,388
+"Fatty acid-binding protein, epidermal",sample,3,24,1.623,0.21,"",0.169,390
+"Fatty acid-binding protein, epidermal",batch,5,24,185.431,2.33e-18,*,0.975,390
+"Fatty acid-binding protein, epidermal",sample:batch,3,24,0.447,0.722,"",0.053,390
+Flavin reductase (NADPH),sample,3,24,4.623,0.011,*,0.366,398
+Flavin reductase (NADPH),batch,5,24,391.661,3.54e-22,*,0.988,398
+Flavin reductase (NADPH),sample:batch,3,24,0.947,0.434,"",0.106,398
+Galectin-1,sample,3,24,9.841,0.000204,*,0.552,406
+Galectin-1,batch,5,24,359.628,9.71e-22,*,0.987,406
+Galectin-1,sample:batch,3,24,3.911,0.021,*,0.328,406
+Glucosidase 2 subunit beta,sample,3,24,4.869,0.009,*,0.378,419
+Glucosidase 2 subunit beta,batch,5,24,1001.729,4.98e-27,*,0.995,419
+Glucosidase 2 subunit beta,sample:batch,3,24,2.748,0.065,"",0.256,419
+Glutathione S-transferase P,sample,3,24,3.322,0.037,*,0.293,425
+Glutathione S-transferase P,batch,5,24,56.454,1.74e-12,*,0.922,425
+Glutathione S-transferase P,sample:batch,3,24,2.438,0.089,"",0.234,425
+Glyceraldehyde-3-phosphate dehydrogenase,sample,3,24,2.102,0.127,"",0.208,427
+Glyceraldehyde-3-phosphate dehydrogenase,batch,5,24,561.476,4.93e-24,*,0.992,427
+Glyceraldehyde-3-phosphate dehydrogenase,sample:batch,3,24,1.607,0.214,"",0.167,427
+Glycine--tRNA ligase,sample,3,24,9.103,0.000333,*,0.532,433
+Glycine--tRNA ligase,batch,5,24,1648.022,1.3e-29,*,0.997,433
+Glycine--tRNA ligase,sample:batch,3,24,5.593,0.005,*,0.411,433
+Glyoxylate reductase/hydroxypyruvate reductase,sample,3,24,2.44,0.089,"",0.234,437
+Glyoxylate reductase/hydroxypyruvate reductase,batch,5,24,350.671,1.31e-21,*,0.986,437
+Glyoxylate reductase/hydroxypyruvate reductase,sample:batch,3,24,0.738,0.539,"",0.085,437
+GTP-binding nuclear protein Ran,sample,3,24,1.891,0.158,"",0.191,448
+GTP-binding nuclear protein Ran,batch,5,24,423.861,1.39e-22,*,0.989,448
+GTP-binding nuclear protein Ran,sample:batch,3,24,1.671,0.2,"",0.173,448
+Heat shock 70 kDa protein 4,sample,3,24,0.356,0.786,"",0.043,459
+Heat shock 70 kDa protein 4,batch,5,24,108.672,1.12e-15,*,0.958,459
+Heat shock 70 kDa protein 4,sample:batch,3,24,0.362,0.781,"",0.043,459
+Heat shock cognate 71 kDa protein,sample,3,24,0.631,0.602,"",0.073,460
+Heat shock cognate 71 kDa protein,batch,5,24,365.178,8.1e-22,*,0.987,460
+Heat shock cognate 71 kDa protein,sample:batch,3,24,0.519,0.673,"",0.061,460
+Heat shock protein HSP 90-alpha,sample,3,24,8.027,0.000708,*,0.501,461
+Heat shock protein HSP 90-alpha,batch,5,24,565.39,4.54e-24,*,0.992,461
+Heat shock protein HSP 90-alpha,sample:batch,3,24,4.919,0.008,*,0.381,461
+Heat shock protein HSP 90-beta,sample,3,24,0.165,0.919,"",0.02,462
+Heat shock protein HSP 90-beta,batch,5,24,480.148,3.16e-23,*,0.99,462
+Heat shock protein HSP 90-beta,sample:batch,3,24,0.251,0.86,"",0.03,462
+Hematopoietic lineage cell-specific protein,sample,3,24,20.305,9e-07,*,0.717,463
+Hematopoietic lineage cell-specific protein,batch,5,24,572.852,3.88e-24,*,0.992,463
+Hematopoietic lineage cell-specific protein,sample:batch,3,24,14.519,1.33e-05,*,0.645,463
+Hepatoma-derived growth factor,sample,3,24,0.258,0.855,"",0.031,466
+Hepatoma-derived growth factor,batch,5,24,62.362,5.81e-13,*,0.929,466
+Hepatoma-derived growth factor,sample:batch,3,24,0.216,0.884,"",0.026,466
+Heterogeneous nuclear ribonucleoprotein A3,sample,3,24,0.605,0.618,"",0.07,468
+Heterogeneous nuclear ribonucleoprotein A3,batch,5,24,555.446,5.61e-24,*,0.991,468
+Heterogeneous nuclear ribonucleoprotein A3,sample:batch,3,24,0.144,0.932,"",0.018,468
+Heterogeneous nuclear ribonucleoprotein D0,sample,3,24,0.476,0.702,"",0.056,469
+Heterogeneous nuclear ribonucleoprotein D0,batch,5,24,215.754,3.97e-19,*,0.978,469
+Heterogeneous nuclear ribonucleoprotein D0,sample:batch,3,24,0.126,0.944,"",0.016,469
+Heterogeneous nuclear ribonucleoprotein K,sample,3,24,7.47,0.001,*,0.483,470
+Heterogeneous nuclear ribonucleoprotein K,batch,5,24,1503.238,3.9e-29,*,0.997,470
+Heterogeneous nuclear ribonucleoprotein K,sample:batch,3,24,4.128,0.017,*,0.34,470
+Heterogeneous nuclear ribonucleoprotein L,sample,3,24,6.884,0.002,*,0.463,471
+Heterogeneous nuclear ribonucleoprotein L,batch,5,24,950.621,9.31e-27,*,0.995,471
+Heterogeneous nuclear ribonucleoprotein L,sample:batch,3,24,2.186,0.116,"",0.215,471
+Heterogeneous nuclear ribonucleoprotein M,sample,3,24,1.486,0.244,"",0.157,472
+Heterogeneous nuclear ribonucleoprotein M,batch,5,24,189.279,1.83e-18,*,0.975,472
+Heterogeneous nuclear ribonucleoprotein M,sample:batch,3,24,0.776,0.519,"",0.088,472
+Heterogeneous nuclear ribonucleoprotein U,sample,3,24,16.568,4.79e-06,*,0.674,473
+Heterogeneous nuclear ribonucleoprotein U,batch,5,24,1702.786,8.79e-30,*,0.997,473
+Heterogeneous nuclear ribonucleoprotein U,sample:batch,3,24,11.044,9.52e-05,*,0.58,473
+Heterogeneous nuclear ribonucleoproteins A2/B1,sample,3,24,2.045,0.134,"",0.204,474
+Heterogeneous nuclear ribonucleoproteins A2/B1,batch,5,24,490.487,2.46e-23,*,0.99,474
+Heterogeneous nuclear ribonucleoproteins A2/B1,sample:batch,3,24,2.006,0.14,"",0.2,474
+Heterogeneous nuclear ribonucleoproteins C1/C2,sample,3,24,0.228,0.876,"",0.028,475
+Heterogeneous nuclear ribonucleoproteins C1/C2,batch,5,24,627.051,1.33e-24,*,0.992,475
+Heterogeneous nuclear ribonucleoproteins C1/C2,sample:batch,3,24,0.215,0.885,"",0.026,475
+Histone H1.2,sample,3,24,7.663,0.000923,*,0.489,485
+Histone H1.2,batch,5,24,32.96,5.35e-10,*,0.873,485
+Histone H1.2,sample:batch,3,24,6.614,0.002,*,0.453,485
+Histone H1.5,sample,3,24,78.525,1.5e-12,*,0.908,488
+Histone H1.5,batch,5,24,629.743,1.26e-24,*,0.992,488
+Histone H1.5,sample:batch,3,24,57.283,4.35e-11,*,0.877,488
+Histone H4,sample,3,24,45.044,5.18e-10,*,0.849,492
+Histone H4,batch,5,24,788.753,8.63e-26,*,0.994,492
+Histone H4,sample:batch,3,24,33.023,1.1e-08,*,0.805,492
+Importin subunit beta-1,sample,3,24,1.969,0.146,"",0.198,524
+Importin subunit beta-1,batch,5,24,530.538,9.67e-24,*,0.991,524
+Importin subunit beta-1,sample:batch,3,24,1.299,0.298,"",0.14,524
+Inorganic pyrophosphatase,sample,3,24,2.047,0.134,"",0.204,531
+Inorganic pyrophosphatase,batch,5,24,420.692,1.52e-22,*,0.989,531
+Inorganic pyrophosphatase,sample:batch,3,24,0.544,0.657,"",0.064,531
+Inosine-5-monophosphate dehydrogenase 2,sample,3,24,0.436,0.729,"",0.052,532
+Inosine-5-monophosphate dehydrogenase 2,batch,5,24,242.756,9.97e-20,*,0.981,532
+Inosine-5-monophosphate dehydrogenase 2,sample:batch,3,24,0.491,0.692,"",0.058,532
+Interferon regulatory factor 4,sample,3,24,12.192,4.8e-05,*,0.604,544
+Interferon regulatory factor 4,batch,5,24,334.579,2.28e-21,*,0.986,544
+Interferon regulatory factor 4,sample:batch,3,24,10.599,0.000125,*,0.57,544
+Interferon-induced protein 44,sample,3,24,2.326,0.1,"",0.225,545
+Interferon-induced protein 44,batch,5,24,428.664,1.21e-22,*,0.989,545
+Interferon-induced protein 44,sample:batch,3,24,1.064,0.383,"",0.117,545
+Interleukin enhancer-binding factor 3,sample,3,24,0.942,0.436,"",0.105,547
+Interleukin enhancer-binding factor 3,batch,5,24,564.203,4.65e-24,*,0.992,547
+Interleukin enhancer-binding factor 3,sample:batch,3,24,0.335,0.8,"",0.04,547
+"Isoleucine--tRNA ligase, cytoplasmic",sample,3,24,0.62,0.609,"",0.072,553
+"Isoleucine--tRNA ligase, cytoplasmic",batch,5,24,637.069,1.1e-24,*,0.993,553
+"Isoleucine--tRNA ligase, cytoplasmic",sample:batch,3,24,0.026,0.994,"",0.003,553
+Lamin-B1,sample,3,24,13.088,2.88e-05,*,0.621,570
+Lamin-B1,batch,5,24,594.836,2.48e-24,*,0.992,570
+Lamin-B1,sample:batch,3,24,10.247,0.000157,*,0.562,570
+Lysine--tRNA ligase,sample,3,24,0.3,0.825,"",0.036,595
+Lysine--tRNA ligase,batch,5,24,286.445,1.42e-20,*,0.984,595
+Lysine--tRNA ligase,sample:batch,3,24,0.215,0.885,"",0.026,595
+"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",sample,3,24,5.267,0.006,*,0.397,619
+"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",batch,5,24,319.431,3.94e-21,*,0.985,619
+"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",sample:batch,3,24,4.09,0.018,*,0.338,619
+Moesin,sample,3,24,4.62,0.011,*,0.366,669
+Moesin,batch,5,24,434.086,1.05e-22,*,0.989,669
+Moesin,sample:batch,3,24,2.619,0.074,"",0.247,669
+Myosin light polypeptide 6,sample,3,24,1.005,0.408,"",0.112,679
+Myosin light polypeptide 6,batch,5,24,776.412,1.04e-25,*,0.994,679
+Myosin light polypeptide 6,sample:batch,3,24,0.647,0.592,"",0.075,679
+Myosin-9,sample,3,24,4.48,0.012,*,0.359,681
+Myosin-9,batch,5,24,620.471,1.5e-24,*,0.992,681
+Myosin-9,sample:batch,3,24,4.821,0.009,*,0.376,681
+Myristoylated alanine-rich C-kinase substrate,sample,3,24,27.98,5.24e-08,*,0.778,685
+Myristoylated alanine-rich C-kinase substrate,batch,5,24,744.311,1.72e-25,*,0.994,685
+Myristoylated alanine-rich C-kinase substrate,sample:batch,3,24,17.709,2.8e-06,*,0.689,685
+"NAD-dependent malic enzyme, mitochondrial",sample,3,24,0.1,0.959,"",0.012,689
+"NAD-dependent malic enzyme, mitochondrial",batch,5,24,58.418,1.19e-12,*,0.924,689
+"NAD-dependent malic enzyme, mitochondrial",sample:batch,3,24,0.098,0.96,"",0.012,689
+Neutral alpha-glucosidase AB,sample,3,24,0.588,0.629,"",0.068,704
+Neutral alpha-glucosidase AB,batch,5,24,253.517,5.99e-20,*,0.981,704
+Neutral alpha-glucosidase AB,sample:batch,3,24,0.129,0.942,"",0.016,704
+Nicotinamide phosphoribosyltransferase,sample,3,24,1.082,0.376,"",0.119,710
+Nicotinamide phosphoribosyltransferase,batch,5,24,387.474,4.02e-22,*,0.988,710
+Nicotinamide phosphoribosyltransferase,sample:batch,3,24,0.888,0.461,"",0.1,710
+Nuclease-sensitive element-binding protein 1,sample,3,24,4.235,0.015,*,0.346,720
+Nuclease-sensitive element-binding protein 1,batch,5,24,647.213,9.1e-25,*,0.993,720
+Nuclease-sensitive element-binding protein 1,sample:batch,3,24,2.795,0.062,"",0.259,720
+Nucleolin,sample,3,24,1.033,0.396,"",0.114,723
+Nucleolin,batch,5,24,467.277,4.37e-23,*,0.99,723
+Nucleolin,sample:batch,3,24,0.307,0.82,"",0.037,723
+Nucleophosmin,sample,3,24,1.661,0.202,"",0.172,724
+Nucleophosmin,batch,5,24,73.235,9.75e-14,*,0.938,724
+Nucleophosmin,sample:batch,3,24,0.906,0.453,"",0.102,724
+Nucleoside diphosphate kinase A,sample,3,24,4.054,0.018,*,0.336,725
+Nucleoside diphosphate kinase A,batch,5,24,963.182,7.96e-27,*,0.995,725
+Nucleoside diphosphate kinase A,sample:batch,3,24,0.9,0.455,"",0.101,725
+Peroxiredoxin-1,sample,3,24,7.082,0.001,*,0.47,748
+Peroxiredoxin-1,batch,5,24,482.75,2.97e-23,*,0.99,748
+Peroxiredoxin-1,sample:batch,3,24,5.171,0.007,*,0.393,748
+Peroxiredoxin-4,sample,3,24,2.013,0.139,"",0.201,749
+Peroxiredoxin-4,batch,5,24,166.176,8.36e-18,*,0.972,749
+Peroxiredoxin-4,sample:batch,3,24,0.649,0.591,"",0.075,749
+Peroxiredoxin-6,sample,3,24,9.819,0.000207,*,0.551,750
+Peroxiredoxin-6,batch,5,24,699.125,3.63e-25,*,0.993,750
+Peroxiredoxin-6,sample:batch,3,24,6.766,0.002,*,0.458,750
+"Phosphate carrier protein, mitochondrial",sample,3,24,1.282,0.303,"",0.138,761
+"Phosphate carrier protein, mitochondrial",batch,5,24,420.33,1.53e-22,*,0.989,761
+"Phosphate carrier protein, mitochondrial",sample:batch,3,24,0.665,0.581,"",0.077,761
+Phosphoserine aminotransferase,sample,3,24,0.487,0.694,"",0.057,769
+Phosphoserine aminotransferase,batch,5,24,499.418,1.98e-23,*,0.99,769
+Phosphoserine aminotransferase,sample:batch,3,24,0.151,0.928,"",0.019,769
+Plastin-2,sample,3,24,0.792,0.51,"",0.09,774
+Plastin-2,batch,5,24,291.408,1.16e-20,*,0.984,774
+Plastin-2,sample:batch,3,24,0.758,0.528,"",0.087,774
+Poly [ADP-ribose] polymerase 1,sample,3,24,3.295,0.038,*,0.292,779
+Poly [ADP-ribose] polymerase 1,batch,5,24,164.502,9.4e-18,*,0.972,779
+Poly [ADP-ribose] polymerase 1,sample:batch,3,24,2.976,0.052,"",0.271,779
+Poly(rC)-binding protein 1,sample,3,24,0.692,0.566,"",0.08,782
+Poly(rC)-binding protein 1,batch,5,24,888.007,2.1e-26,*,0.995,782
+Poly(rC)-binding protein 1,sample:batch,3,24,0.444,0.723,"",0.053,782
+Polypyrimidine tract-binding protein 1,sample,3,24,0.332,0.802,"",0.04,790
+Polypyrimidine tract-binding protein 1,batch,5,24,946.519,9.8e-27,*,0.995,790
+Polypyrimidine tract-binding protein 1,sample:batch,3,24,0.105,0.957,"",0.013,790
+Pre-mRNA-processing factor 19,sample,3,24,1.451,0.253,"",0.154,799
+Pre-mRNA-processing factor 19,batch,5,24,488.822,2.56e-23,*,0.99,799
+Pre-mRNA-processing factor 19,sample:batch,3,24,0.745,0.536,"",0.085,799
+Probable ATP-dependent RNA helicase DDX17,sample,3,24,1.669,0.2,"",0.173,807
+Probable ATP-dependent RNA helicase DDX17,batch,5,24,230.168,1.86e-19,*,0.98,807
+Probable ATP-dependent RNA helicase DDX17,sample:batch,3,24,0.869,0.471,"",0.098,807
+Profilin-1,sample,3,24,0.205,0.892,"",0.025,820
+Profilin-1,batch,5,24,329.265,2.75e-21,*,0.986,820
+Profilin-1,sample:batch,3,24,0.297,0.827,"",0.036,820
+Prohibitin,sample,3,24,2.571,0.078,"",0.243,823
+Prohibitin,batch,5,24,510.731,1.52e-23,*,0.991,823
+Prohibitin,sample:batch,3,24,1.791,0.176,"",0.183,823
+Proliferation-associated protein 2G4,sample,3,24,0.247,0.863,"",0.03,824
+Proliferation-associated protein 2G4,batch,5,24,445.654,7.66e-23,*,0.989,824
+Proliferation-associated protein 2G4,sample:batch,3,24,0.091,0.964,"",0.011,824
+Proteasome activator complex subunit 1,sample,3,24,0.888,0.461,"",0.1,828
+Proteasome activator complex subunit 1,batch,5,24,523.109,1.14e-23,*,0.991,828
+Proteasome activator complex subunit 1,sample:batch,3,24,0.592,0.627,"",0.069,828
+Proteasome activator complex subunit 2,sample,3,24,8.599,0.000471,*,0.518,829
+Proteasome activator complex subunit 2,batch,5,24,925.586,1.28e-26,*,0.995,829
+Proteasome activator complex subunit 2,sample:batch,3,24,6.143,0.003,*,0.434,829
+Protein CDV3 homolog,sample,3,24,0.505,0.682,"",0.059,848
+Protein CDV3 homolog,batch,5,24,164.33,9.52e-18,*,0.972,848
+Protein CDV3 homolog,sample:batch,3,24,0.514,0.676,"",0.06,848
+Protein deglycase DJ-1,sample,3,24,0.412,0.746,"",0.049,854
+Protein deglycase DJ-1,batch,5,24,785.187,9.11e-26,*,0.994,854
+Protein deglycase DJ-1,sample:batch,3,24,0.534,0.663,"",0.063,854
+Protein disulfide-isomerase,sample,3,24,23.006,3.06e-07,*,0.742,856
+Protein disulfide-isomerase,batch,5,24,881.727,2.28e-26,*,0.995,856
+Protein disulfide-isomerase,sample:batch,3,24,6.389,0.002,*,0.444,856
+Protein disulfide-isomerase A4,sample,3,24,12.137,4.96e-05,*,0.603,857
+Protein disulfide-isomerase A4,batch,5,24,815.822,5.77e-26,*,0.994,857
+Protein disulfide-isomerase A4,sample:batch,3,24,9.555,0.000246,*,0.544,857
+Protein disulfide-isomerase A6,sample,3,24,3.38,0.035,*,0.297,858
+Protein disulfide-isomerase A6,batch,5,24,536.275,8.51e-24,*,0.991,858
+Protein disulfide-isomerase A6,sample:batch,3,24,0.898,0.456,"",0.101,858
+Protein RCC2,sample,3,24,14.012,1.74e-05,*,0.637,896
+Protein RCC2,batch,5,24,297.357,9.16e-21,*,0.984,896
+Protein RCC2,sample:batch,3,24,10.277,0.000154,*,0.562,896
+Pyrroline-5-carboxylate reductase 2,sample,3,24,2.653,0.072,"",0.249,932
+Pyrroline-5-carboxylate reductase 2,batch,5,24,101.336,2.49e-15,*,0.955,932
+Pyrroline-5-carboxylate reductase 2,sample:batch,3,24,3.168,0.043,*,0.284,932
+Quinone oxidoreductase,sample,3,24,0.682,0.572,"",0.079,934
+Quinone oxidoreductase,batch,5,24,645.259,9.43e-25,*,0.993,934
+Quinone oxidoreductase,sample:batch,3,24,0.182,0.908,"",0.022,934
+Ras GTPase-activating-like protein IQGAP1,sample,3,24,0.447,0.722,"",0.053,940
+Ras GTPase-activating-like protein IQGAP1,batch,5,24,53.677,3.01e-12,*,0.918,940
+Ras GTPase-activating-like protein IQGAP1,sample:batch,3,24,0.619,0.61,"",0.072,940
+Rho GDP-dissociation inhibitor 1,sample,3,24,2.246,0.109,"",0.219,966
+Rho GDP-dissociation inhibitor 1,batch,5,24,827.583,4.86e-26,*,0.994,966
+Rho GDP-dissociation inhibitor 1,sample:batch,3,24,1.843,0.166,"",0.187,966
+Ribonuclease inhibitor,sample,3,24,2.572,0.078,"",0.243,972
+Ribonuclease inhibitor,batch,5,24,843.746,3.86e-26,*,0.994,972
+Ribonuclease inhibitor,sample:batch,3,24,0.137,0.937,"",0.017,972
+RNA-binding protein EWS,sample,3,24,3.107,0.045,*,0.28,987
+RNA-binding protein EWS,batch,5,24,743.129,1.75e-25,*,0.994,987
+RNA-binding protein EWS,sample:batch,3,24,1.415,0.263,"",0.15,987
+Septin-6,sample,3,24,1.453,0.252,"",0.154,998
+Septin-6,batch,5,24,273.504,2.45e-20,*,0.983,998
+Septin-6,sample:batch,3,24,2.177,0.117,"",0.214,998
+"Serine--tRNA ligase, cytoplasmic",sample,3,24,0.199,0.896,"",0.024,1001
+"Serine--tRNA ligase, cytoplasmic",batch,5,24,326.271,3.07e-21,*,0.986,1001
+"Serine--tRNA ligase, cytoplasmic",sample:batch,3,24,0.023,0.995,"",0.003,1001
+Serine/arginine-rich splicing factor 1,sample,3,24,3.221,0.041,*,0.287,1002
+Serine/arginine-rich splicing factor 1,batch,5,24,411.44,1.97e-22,*,0.988,1002
+Serine/arginine-rich splicing factor 1,sample:batch,3,24,3.068,0.047,*,0.277,1002
+Serpin B9,sample,3,24,80.083,1.22e-12,*,0.909,1019
+Serpin B9,batch,5,24,398.091,2.92e-22,*,0.988,1019
+Serpin B9,sample:batch,3,24,57.457,4.22e-11,*,0.878,1019
+"Spectrin beta chain, non-erythrocytic 1",sample,3,24,0.03,0.993,"",0.004,1060
+"Spectrin beta chain, non-erythrocytic 1",batch,5,24,172.467,5.42e-18,*,0.973,1060
+"Spectrin beta chain, non-erythrocytic 1",sample:batch,3,24,0.145,0.932,"",0.018,1060
+Splicing factor 3B subunit 1,sample,3,24,1.589,0.218,"",0.166,1073
+Splicing factor 3B subunit 1,batch,5,24,638.903,1.06e-24,*,0.993,1073
+Splicing factor 3B subunit 1,sample:batch,3,24,1.061,0.384,"",0.117,1073
+Splicing factor 3B subunit 3,sample,3,24,0.518,0.674,"",0.061,1074
+Splicing factor 3B subunit 3,batch,5,24,217.362,3.64e-19,*,0.978,1074
+Splicing factor 3B subunit 3,sample:batch,3,24,0.345,0.793,"",0.041,1074
+Staphylococcal nuclease domain-containing protein 1,sample,3,24,4.969,0.008,*,0.383,1078
+Staphylococcal nuclease domain-containing protein 1,batch,5,24,597.82,2.34e-24,*,0.992,1078
+Staphylococcal nuclease domain-containing protein 1,sample:batch,3,24,2.961,0.052,"",0.27,1078
+"Stress-70 protein, mitochondrial",sample,3,24,1.327,0.289,"",0.142,1080
+"Stress-70 protein, mitochondrial",batch,5,24,420.787,1.51e-22,*,0.989,1080
+"Stress-70 protein, mitochondrial",sample:batch,3,24,0.832,0.49,"",0.094,1080
+Stress-induced-phosphoprotein 1,sample,3,24,0.455,0.716,"",0.054,1081
+Stress-induced-phosphoprotein 1,batch,5,24,452.611,6.37e-23,*,0.99,1081
+Stress-induced-phosphoprotein 1,sample:batch,3,24,0.537,0.661,"",0.063,1081
+"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",sample,3,24,0.202,0.894,"",0.025,1085
+"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",batch,5,24,294.525,1.03e-20,*,0.984,1085
+"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",sample:batch,3,24,0.08,0.97,"",0.01,1085
+Superoxide dismutase [Cu-Zn],sample,3,24,0.404,0.751,"",0.048,1088
+Superoxide dismutase [Cu-Zn],batch,5,24,319.043,3.99e-21,*,0.985,1088
+Superoxide dismutase [Cu-Zn],sample:batch,3,24,0.082,0.969,"",0.01,1088
+T-complex protein 1 subunit alpha,sample,3,24,0.414,0.745,"",0.049,1093
+T-complex protein 1 subunit alpha,batch,5,24,934.391,1.14e-26,*,0.995,1093
+T-complex protein 1 subunit alpha,sample:batch,3,24,0.268,0.848,"",0.032,1093
+T-complex protein 1 subunit beta,sample,3,24,0.219,0.882,"",0.027,1094
+T-complex protein 1 subunit beta,batch,5,24,350.69,1.31e-21,*,0.986,1094
+T-complex protein 1 subunit beta,sample:batch,3,24,0.391,0.76,"",0.047,1094
+T-complex protein 1 subunit delta,sample,3,24,0.215,0.885,"",0.026,1095
+T-complex protein 1 subunit delta,batch,5,24,590.974,2.68e-24,*,0.992,1095
+T-complex protein 1 subunit delta,sample:batch,3,24,0.151,0.928,"",0.019,1095
+T-complex protein 1 subunit epsilon,sample,3,24,0.065,0.978,"",0.008,1096
+T-complex protein 1 subunit epsilon,batch,5,24,89.004,1.09e-14,*,0.949,1096
+T-complex protein 1 subunit epsilon,sample:batch,3,24,0.052,0.984,"",0.006,1096
+T-complex protein 1 subunit eta,sample,3,24,0.29,0.832,"",0.035,1097
+T-complex protein 1 subunit eta,batch,5,24,401.957,2.6e-22,*,0.988,1097
+T-complex protein 1 subunit eta,sample:batch,3,24,0.46,0.713,"",0.054,1097
+T-complex protein 1 subunit gamma,sample,3,24,0.543,0.658,"",0.064,1098
+T-complex protein 1 subunit gamma,batch,5,24,714.811,2.79e-25,*,0.993,1098
+T-complex protein 1 subunit gamma,sample:batch,3,24,0.593,0.626,"",0.069,1098
+T-complex protein 1 subunit theta,sample,3,24,1.832,0.168,"",0.186,1099
+T-complex protein 1 subunit theta,batch,5,24,248.425,7.6e-20,*,0.981,1099
+T-complex protein 1 subunit theta,sample:batch,3,24,1.229,0.321,"",0.133,1099
+Talin-1,sample,3,24,1.196,0.332,"",0.13,1103
+Talin-1,batch,5,24,564.206,4.65e-24,*,0.992,1103
+Talin-1,sample:batch,3,24,0.938,0.438,"",0.105,1103
+TAR DNA-binding protein 43,sample,3,24,12.011,5.33e-05,*,0.6,1107
+TAR DNA-binding protein 43,batch,5,24,1132.327,1.15e-27,*,0.996,1107
+TAR DNA-binding protein 43,sample:batch,3,24,5.398,0.006,*,0.403,1107
+Thymosin beta-10,sample,3,24,1.114,0.363,"",0.122,1128
+Thymosin beta-10,batch,5,24,71.323,1.31e-13,*,0.937,1128
+Thymosin beta-10,sample:batch,3,24,0.448,0.721,"",0.053,1128
+Thyroid hormone receptor-associated protein 3,sample,3,24,0.22,0.882,"",0.027,1129
+Thyroid hormone receptor-associated protein 3,batch,5,24,313.907,4.84e-21,*,0.985,1129
+Thyroid hormone receptor-associated protein 3,sample:batch,3,24,0.385,0.765,"",0.046,1129
+Transcription intermediary factor 1-beta,sample,3,24,6.695,0.002,*,0.456,1150
+Transcription intermediary factor 1-beta,batch,5,24,1006.106,4.73e-27,*,0.995,1150
+Transcription intermediary factor 1-beta,sample:batch,3,24,4.777,0.009,*,0.374,1150
+Transgelin-2,sample,3,24,20.022,1.01e-06,*,0.715,1155
+Transgelin-2,batch,5,24,836.178,4.3e-26,*,0.994,1155
+Transgelin-2,sample:batch,3,24,13.931,1.82e-05,*,0.635,1155
+Transitional endoplasmic reticulum ATPase,sample,3,24,0.964,0.426,"",0.108,1157
+Transitional endoplasmic reticulum ATPase,batch,5,24,1022.421,3.9e-27,*,0.995,1157
+Transitional endoplasmic reticulum ATPase,sample:batch,3,24,0.199,0.896,"",0.024,1157
+Transketolase,sample,3,24,2.931,0.054,"",0.268,1158
+Transketolase,batch,5,24,693.14,4.02e-25,*,0.993,1158
+Transketolase,sample:batch,3,24,1.956,0.148,"",0.196,1158
+Triosephosphate isomerase,sample,3,24,1.533,0.232,"",0.161,1189
+Triosephosphate isomerase,batch,5,24,373.971,6.11e-22,*,0.987,1189
+Triosephosphate isomerase,sample:batch,3,24,1.676,0.199,"",0.173,1189
+tRNA-splicing ligase RtcB homolog,sample,3,24,2.504,0.083,"",0.238,1198
+tRNA-splicing ligase RtcB homolog,batch,5,24,207.326,6.33e-19,*,0.977,1198
+tRNA-splicing ligase RtcB homolog,sample:batch,3,24,2.608,0.075,"",0.246,1198
+Tropomyosin alpha-4 chain,sample,3,24,2.327,0.1,"",0.225,1200
+Tropomyosin alpha-4 chain,batch,5,24,946.451,9.81e-27,*,0.995,1200
+Tropomyosin alpha-4 chain,sample:batch,3,24,0.781,0.516,"",0.089,1200
+Tubulin beta-4B chain,sample,3,24,1.043,0.391,"",0.115,1210
+Tubulin beta-4B chain,batch,5,24,188.158,1.97e-18,*,0.975,1210
+Tubulin beta-4B chain,sample:batch,3,24,1.143,0.352,"",0.125,1210
+Ubiquitin-like modifier-activating enzyme 1,sample,3,24,2.834,0.06,"",0.262,1245
+Ubiquitin-like modifier-activating enzyme 1,batch,5,24,185.952,2.26e-18,*,0.975,1245
+Ubiquitin-like modifier-activating enzyme 1,sample:batch,3,24,1.962,0.147,"",0.197,1245
+Voltage-dependent anion-selective channel protein 1,sample,3,24,3.204,0.041,*,0.286,1296
+Voltage-dependent anion-selective channel protein 1,batch,5,24,546.66,6.78e-24,*,0.991,1296
+Voltage-dependent anion-selective channel protein 1,sample:batch,3,24,0.992,0.413,"",0.11,1296
+Voltage-dependent anion-selective channel protein 2,sample,3,24,7.472,0.001,*,0.483,1297
+Voltage-dependent anion-selective channel protein 2,batch,5,24,535.757,8.61e-24,*,0.991,1297
+Voltage-dependent anion-selective channel protein 2,sample:batch,3,24,4.265,0.015,*,0.348,1297
+WD repeat-containing protein 1,sample,3,24,3.422,0.033,*,0.3,1301
+WD repeat-containing protein 1,batch,5,24,458.989,5.4e-23,*,0.99,1301
+WD repeat-containing protein 1,sample:batch,3,24,2.336,0.099,"",0.226,1301
+X-ray repair cross-complementing protein 5,sample,3,24,0.553,0.651,"",0.065,1306
+X-ray repair cross-complementing protein 5,batch,5,24,408.689,2.14e-22,*,0.988,1306
+X-ray repair cross-complementing protein 5,sample:batch,3,24,0.25,0.861,"",0.03,1306
+X-ray repair cross-complementing protein 6,sample,3,24,2.187,0.116,"",0.215,1307
+X-ray repair cross-complementing protein 6,batch,5,24,126.44,1.97e-16,*,0.963,1307
+X-ray repair cross-complementing protein 6,sample:batch,3,24,1.378,0.273,"",0.147,1307
