@@ -66,3 +66,26 @@ file_before = './path/to/your_raw_data.csv'       # Data BEFORE correction
 file_after  = './path/to/your_corrected_data.csv' # Data AFTER correction
 file_meta   = './path/to/your_metadata.csv'       # Metadata file
 output_csv  = './path/to/save_report.csv'         # Where to save the result
+
+### 3. Output & Interpretation
+
+The script outputs a CSV file (e.g., `PED_report.csv`) containing comprehensive metrics for each batch pair.
+
+#### Key Metrics Description
+
+| Column | Description |
+| :--- | :--- |
+| **Total Score** | The weighted sum of all PED components. **Lower is Better (Range: 0-1)**. |
+| **Improvement_Pct** | Percentage of score reduction after correction. **Positive values indicate improvement**. |
+| **Dist** | **Distributional Consistency**. Measures how well the data distributions align. |
+| **CV** | **Quantitative Stability**. Based on the Coefficient of Variation (CV) of technical replicates. |
+| **Real_SNR** | **Signal-to-Noise Ratio**. The actual biological signal strength observed. **Higher is Better**. |
+```
+
+How to Interpret the Score
+
+* **PED Score (Total):**
+     A **lower** score indicates better batch correction performance.
+     Ideally, the score should decrease after correction (i.e., `Total_After` < `Total_Before`).
+
+
