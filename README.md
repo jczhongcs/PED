@@ -1,8 +1,5 @@
 # PED (Protein Expression Difference)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Data](https://img.shields.io/badge/Data-ProteomeXchange-green)](http://www.proteomexchange.org/)
-
 **PED** is a comprehensive metric designed to evaluate batch effect correction in mass spectrometry-based proteomics. Unlike methods that prioritize mixing (e.g., kBET), PED balances the removal of technical bias with the preservation of biological signals to prevent over-correction.
 <p align="center">
   <img src="img/framework.png" alt="PED Framework Diagram" width="600">
